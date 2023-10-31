@@ -1,3 +1,4 @@
+<h1></h1>
 <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png#gh-light-mode-only" width="200" alt="Elixir">
 <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" width="200" alt="Elixir">
 
